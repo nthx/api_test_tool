@@ -1,6 +1,6 @@
 # API Test Tool
 
-> Rewrite whole apps with safe & ease
+> Rewrite whole apps with safety & ease
 
 Acceptance and Regression Testing support for your API. Implementation agnostic. Written in Ruby.
 
